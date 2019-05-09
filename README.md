@@ -10,3 +10,5 @@
 ## Currency Converter
 
 ## Etch-A-Sketch
+![EtchASketch](https://github.com/TylerGale1023/ProgrammingPortfolio2019/blob/master/EtchASketch/etchasketch.png)
+[EAS Source Code](https://github.com/TylerGale1023/ProgrammingPortfolio2019/blob/master/EtchASketch/EtchASketch.pde.zip)
